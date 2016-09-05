@@ -1,0 +1,112 @@
+//seedroplist 掉落查询 
+//gmlist 管理员列表 
+//givemissingskills 找回技能 
+//experienceon 经验开 
+//experienceoff 经验关 
+//GM 
+
+D:\AionSVN\MySources\trunk\C#Sources\AionEnv\NewLancher\bin\Debug\aiondata\Navicat\永恒服务端数据库
+
+
+
+
+//add 增加 
+//addcube 增加背包 
+//adddrop 增加掉落 
+//addemotion 增加动作 
+//addset 增加套装 
+//addskill 增加技能 
+//addtitle 增加称号 
+//advsendfakeserverpacket 发送 
+//aesystem
+ 系统 
+//aicommand ai 
+//announce 公告 
+//announcefaction 种族喊话 
+//announcements 自动公告 
+//applypreset 预设 
+//ban 冻结 
+//banip 禁止IP 
+//bk 书签 
+//configure 配置 
+//deletespawn 删除 
+//dispel 打消 
+//dredgion 德雷得奇安 
+//dye 染色 
+//fixh fixh 
+//fixz
+ fixz 
+//fortress 攻城 
+//gag gag 
+//gmgivemissingskills 找回技能 
+//gmonline gm在线 
+//goto goto 
+//gps 定位 
+//heal 恢复 
+//html
+ html 
+//info 信息 
+//invis 隐身 
+//invul 无敌 
+//kick 踢掉 
+//kill kill 
+//kinah 刷钱 
+//legioncommand 军团 
+//morph
+ 变身 
+//moveplayertoplayer 移动玩家到玩家 
+//moveto 移动 
+//movetome 移动我 
+//movetonpc 移动到npc 
+//movetoplayer 移动到玩家 
+//movie 电影 
+//neutral 中立 
+//notice
+ 通知 
+//online 在线 
+//passkey 密保 
+//petition 问答处理 
+//playerinfo 玩家信息 
+//powerup 属性强化 
+//promote 授权 
+//questcommand
+ 任务 
+//recall 集体移动 
+//recallnpc 召回npc 
+//reload 重新加载 
+//reloadspawns 加载刷怪 
+//remove 删除物品 
+//removecd 删除cd 
+//removefromprison 释放 
+//rename 重命名 
+//resurrect 复活 
+//revoke 撤销 
+//ring ring 
+//savespawndata
+ 保存刷怪 
+//say Say 
+//see see 
+//sendfakeserverpacket 发送服务器数据 
+//sendrawpacket 原料 
+//sendtoprison 监禁 
+//set 设置 
+//siege
+ 要塞 
+//silence 安静模式 
+//spawn 刷怪 
+//speed 速度 
+//spy spy 
+//stat 统计 
+//unban 解除禁止 
+//unbanip 解除IP 
+//ungag 解除压制 
+//unspawn 不刷怪 
+//unstuck 回城 
+//who 查询 
+//worldban 禁言 
+//worldunban 取消禁言 
+//zone 区域 
+//changerace 切换种族 
+//titles 找回称号 
+//gotomaps 传送 
+//allcommads 帮助 

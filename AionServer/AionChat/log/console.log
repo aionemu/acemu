@@ -1,0 +1,47 @@
+20:23:44.106 INFO [main]: com.aionemu.chatserver.ChatServer [ChatServer.java:106] - language: 中文 (中国) 
+
+20:23:44.109 INFO [main]: com.aionemu.chatserver.configs.Config [Config.java:99] - 加载: mycs.properties
+20:23:44.110 INFO [main]: com.aionemu.chatserver.configs.Config [Config.java:103] - 未找到配置文件
+20:23:44.112 INFO [main]: com.aionemu.chatserver.configs.Config [Config.java:109] - 加载: commons.properties
+20:23:44.122 INFO [main]: com.aionemu.chatserver.configs.Config [Config.java:111] - 加载: chatserver.properties
+20:23:44.127 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:120] - 操作系统: Windows 8 版本: 6.2
+20:23:44.127 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:120] - 处理器: amd64
+20:23:44.127 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:120] - ..................................................
+20:23:44.127 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:120] - ..................................................
+20:23:44.128 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:115] - 处理器核心: 8
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:115] - 处理器标识: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:115] - ..................................................
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:115] - ..................................................
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - JAVA 平台信息
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - JAVA 运行名称: Java(TM) SE Runtime Environment
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - JAVA 版    本: 1.7.0_25
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - JAVA 类 版 本: 51.0
+20:23:44.129 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - ..................................................
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:125] - ..................................................
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 虚拟机信息(JVM)
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 名    称: Java HotSpot(TM) 64-Bit Server VM
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 安装路径: D:\AC5.0\AionData\jre
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 版    本: 24.0-b56
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 发行公司: Oracle Corporation
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - 信    息: mixed mode
+20:23:44.130 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - ..................................................
+20:23:44.131 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:130] - ..................................................
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - +----
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - | 服务器内存整理时间 20:23:44
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - |    |
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - | 内存总量:  63488 KB
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - |    |= 已用内存:  63488 KB (100.0000%)
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - |    |= 未用内存:  0 KB (0.0000%)
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - | 分配内存:  63488 KB
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - |    |= 已用内存:  18739 KB (29.5158%)
+20:23:44.132 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - |    |= 未用内存:  44749 KB (70.4842%)
+20:23:44.133 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - | 可用内存:  44749 KB (70.4842%)
+20:23:44.133 INFO [main]: com.aionemu.commons.utils.AEInfos [AEInfos.java:110] - +----
+20:23:44.228 INFO [main]: com.aionemu.commons.network.NioServer [NioServer.java:123] - 开放端口 9021 等待来自 127.0.0.1 的游戏服务器连接.
+20:23:44.232 INFO [main]: com.aionemu.chatserver.ChatServer [ChatServer.java:117] - 聊天服务器启动耗时 0 秒.
+20:24:36.822 INFO [Accept Dispatcher]: com.aionemu.chatserver.network.gameserver.GsConnection [GsConnection.java:111] - 收到来自 127.0.0.1 的游戏服务器连接.
+20:24:38.418 INFO [pool-5-thread-1]: com.aionemu.chatserver.network.gameserver.clientpackets.CM_CS_AUTH [CM_CS_AUTH.java:72] - #1 号游戏服务器连接成功.
+20:25:26.012 INFO [pool-2-thread-2]: com.aionemu.chatserver.network.netty.handler.ClientChannelHandler [ClientChannelHandler.java:63] - 收到来自 192.168.0.60 的客户端连接.
+20:56:32.379 INFO [pool-2-thread-196]: com.aionemu.chatserver.network.netty.handler.AbstractChannelHandler [AbstractChannelHandler.java:57] - 来自 192.168.0.60 的用户连接中断.
+20:56:32.550 INFO [pool-5-thread-1]: com.aionemu.chatserver.network.gameserver.clientpackets.CM_PLAYER_LOGOUT [CM_PLAYER_LOGOUT.java:51] - 角色ID为: 130064 的用户退出聊天频道.
+21:00:18.451 INFO [pool-5-thread-1]: com.aionemu.chatserver.service.GameServerService [GameServerService.java:71] - #1 号游戏服务器连接中断.

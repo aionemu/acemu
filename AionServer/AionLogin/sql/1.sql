@@ -1,0 +1,1 @@
+UPDATE account_data SET membership=1 WHERE membership=0;

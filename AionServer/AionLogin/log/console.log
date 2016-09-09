@@ -1,0 +1,68 @@
+[20:57:06] INFO - language: 中文 (中国) 
+
+[20:57:06] INFO - Using default implementation for ThreadExecutor
+[20:57:06] INFO - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[20:57:06] INFO - Quartz Scheduler v.2.1.7 created.
+[20:57:06] INFO - RAMJobStore initialized.
+[20:57:06] INFO - Scheduler meta-data: Quartz Scheduler (v2.1.7) 'QuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[20:57:06] INFO - Quartz scheduler 'QuartzScheduler' initialized from an externally provided properties instance.
+[20:57:06] INFO - Quartz scheduler version: 2.1.7
+[20:57:06] INFO - Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+[20:57:06] INFO - 加载: myls.properties
+[20:57:06] INFO - 未找到配置文件
+[20:57:06] INFO - 加载: ./config/network/network.properties
+[20:57:06] INFO - 加载: ./config/network/commons.properties
+[20:57:06] INFO - 加载: ./config/network/database.properties
+[20:57:06] INFO - 成功连接数据库！
+[20:57:07] INFO - 载入 8 个上下文脚本！
+[20:57:07] INFO - 初始化线程 23 线程 11 即时线程 0 长时间运行线程
+[20:57:07] INFO - 初始化注册机...
+[20:57:07] INFO - 载入 1 个已注册的游戏服务器！
+[20:57:07] INFO - 载入 0 个封停IP地址！
+[20:57:07] INFO - 开放端口 9014 等待来自 127.0.0.1 的游戏服务器连接.
+[20:57:07] INFO - 开放端口 3333 等待客户端连接.
+[20:57:07] INFO - 玩家转区服务将在 10 秒后初始化.
+[20:57:07] INFO - 从数据库加载 0 个自动重启线程的第  个线程.
+[20:57:07] INFO - 操作系统: Windows 8 版本: 6.2
+[20:57:07] INFO - 处理器: amd64
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - 处理器核心: 8
+[20:57:07] INFO - 处理器标识: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - JAVA 平台信息
+[20:57:07] INFO - JAVA 运行名称: Java(TM) SE Runtime Environment
+[20:57:07] INFO - JAVA 版    本: 1.7.0_25
+[20:57:07] INFO - JAVA 类 版 本: 51.0
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - 虚拟机信息(JVM)
+[20:57:07] INFO - 名    称: Java HotSpot(TM) 64-Bit Server VM
+[20:57:07] INFO - 安装路径: D:\AC5.0\AionData\jre
+[20:57:07] INFO - 版    本: 24.0-b56
+[20:57:07] INFO - 发行公司: Oracle Corporation
+[20:57:07] INFO - 信    息: mixed mode
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - ..................................................
+[20:57:07] INFO - +----
+[20:57:07] INFO - | 服务器内存整理时间 20:57:07
+[20:57:07] INFO - |    |
+[20:57:07] INFO - | 内存总量:  126464 KB
+[20:57:07] INFO - |    |= 已用内存:  126464 KB (100.0000%)
+[20:57:07] INFO - |    |= 未用内存:  0 KB (0.0000%)
+[20:57:07] INFO - | 分配内存:  126464 KB
+[20:57:07] INFO - |    |= 已用内存:  22664 KB (17.9213%)
+[20:57:07] INFO - |    |= 未用内存:  103800 KB (82.0787%)
+[20:57:07] INFO - | 可用内存:  103800 KB (82.0787%)
+[20:57:07] INFO - +----
+[20:57:07] INFO - 高级控制器准备就绪，等待接受请求.
+[20:57:07] INFO - 登录服务器启动耗时 1 秒.
+[20:57:17] INFO - 玩家转区服务初始化. 0 个任务.

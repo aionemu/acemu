@@ -1,0 +1,46 @@
+/**
+* Date: 2016-07-26-09:57;
+* Author: Davin
+**/
+/* css reset */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, span, a, b, strong, object, iframe, label, img, blockquote, ins, del, select, form, input, textarea, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {margin:0;padding:0}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display:block}
+table {border-collapse:collapse;border-spacing:0}
+li {list-style:none}
+a {text-decoration:none}
+fieldset, img {border:0 none}
+textarea {resize:none}
+:focus {outline:0 none}
+.h5bp { display:inline-block;font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0; overflow:hidden}
+.clearfix:after {content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix {zoom:1}
+
+/* content */
+html {background: url(bg_wrap0.jpg) no-repeat 50% 0;}
+body {font:14px \5FAE\8F6F\96C5\9ED1, Tahoma, Arial}
+.sec {width:1100px; margin:0 auto;background-repeat:no-repeat;}
+.sec1 {height: 250px;background: url(bg_sec01.jpg) no-repeat}
+.sec1 p {padding:30px 30px 0 0;text-align: right}
+.sec1 p a {color: #211f33;text-shadow:0 1px 1px rgba(255,255,255,.3);margin: 0 10px}
+.sec2 {height: 240px;background: url(bg_sec02.jpg) no-repeat}
+.sec3 {height: 260px;position: relative;background: url(bg_sec03.jpg) no-repeat}
+.sec4 {height: 450px;position: relative;background: url(bg_sec04.jpg) no-repeat}
+
+.btn-menu {position: absolute;}
+.btn-menu a {display: block;width:264px;height: 212px;top:6px;}
+.btn-menu a:hover {background: url(btn_menu1_hover.jpg) no-repeat}
+.menu1 {left: 0;}
+.menu1 a:hover {background-position:0 0;}
+.menu2 {left: 280px;}
+.menu2 a:hover {background-position:-280px 0;}
+.menu3 {left: 560px;}
+.menu3 a:hover {background-position:-560px 0;}
+.menu4 {left: 840px;}
+.menu4 a:hover {background-position:-840px 0;}
+
+.sec4 .btn-menu a {width:536px;height: 140px;top:1px;}
+.sec4 .btn-menu a:hover {background: url(btn_menu2_hover.jpg) no-repeat}
+.sec4 .menu5 {left: 3px;}
+.sec4 .menu5 a:hover {background-position:0 1px;}
+.sec4 .menu6 {left: 560px;}
+.sec4 .menu6 a:hover {background-position:-557px 1px;}
